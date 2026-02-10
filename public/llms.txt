@@ -1,0 +1,87 @@
+# יבוק דיזיין — Generative Engine Optimization Map
+
+> A רהיטים business.
+
+---
+
+## Pages
+
+### Home
+https://-a8a72c01.zappy5.app
+
+### Collection
+https://-a8a72c01.zappy5.app/collection
+
+### Fair Price
+https://-a8a72c01.zappy5.app/fair-price
+
+### Contact
+https://-a8a72c01.zappy5.app/contact
+
+### Products
+https://-a8a72c01.zappy5.app/products
+המוצרים שלנו - יבוק דיזיין
+
+### Cart
+https://-a8a72c01.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-a8a72c01.zappy5.app/checkout
+תשלום
+
+### Login
+https://-a8a72c01.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-a8a72c01.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-a8a72c01.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-a8a72c01.zappy5.app/product/:slug
+פרטי המוצר - יבוק דיזיין
+
+### Category
+https://-a8a72c01.zappy5.app/category/:slug
+מוצרים - יבוק דיזיין
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a8a72c01.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a8a72c01.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a8a72c01.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יבוק דיזיין
+יבוק דיזיין is a business in the רהיטים industry.
+
+## Target Audience
+- בעלי בתים יוקרתיים
+- מעצבי פנים
+- שוכרים בדירות יוקרה
+
+## Industry
+רהיטים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-a8a72c01.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-a8a72c01.zappy5.app/robots.txt
